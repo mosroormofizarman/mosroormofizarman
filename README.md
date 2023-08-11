@@ -1,8 +1,4 @@
-<a href="https://github.com/mosroormofizarman">
-  <img align="center" src="https://github.com/mosroormofizarman/Photos/blob/main/Wallpaper/This%20is%20Mosroor%20Mofiz%20Arman.png" />
-</a> 
-
-### Mosroor Mofiz Arman
+# Mosroor Mofiz Arman
 
 - **Nationality:** Bangladeshi<img align="center" src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BD.svg" width="24" height="24" />
 
