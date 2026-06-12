@@ -1,7 +1,5 @@
 # Mosroor Mofiz Arman
 
-- **Nationality:** Bangladeshi<img align="center" src="https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BD.svg" width="24" height="24" />
-
 ### EDUCATION
 
 **`North South University`**
